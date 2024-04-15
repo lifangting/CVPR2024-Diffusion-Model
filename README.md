@@ -23,81 +23,81 @@
 
 12	Action Detection via an Image Diffusion Process  https://arxiv.org/abs/2404.01051
 
-13	AEROBLADE: Training-Free Detection of Latent Diffusion Images Using Autoencoder Reconstruction Error
+13	AEROBLADE: Training-Free Detection of Latent Diffusion Images Using Autoencoder Reconstruction Error  https://arxiv.org/abs/2401.17879
 
-14	Alchemist: Parametric Control of Material Properties with Diffusion Models
+14	Alchemist: Parametric Control of Material Properties with Diffusion Models  https://arxiv.org/abs/2312.02970
 
-15	Align Your Gaussians: Text-to-4D with Dynamic 3D Gaussians and Composed Diffusion Models
+15	Align Your Gaussians: Text-to-4D with Dynamic 3D Gaussians and Composed Diffusion Models  https://arxiv.org/abs/2312.13763
 
-16	Amodal Completion via Progressive Mixed Context Diffusion
+16	Amodal Completion via Progressive Mixed Context Diffusion  https://arxiv.org/abs/2312.15540
 
-17	Analyzing and Improving the Training Dynamics of Diffusion Models
+17	Analyzing and Improving the Training Dynamics of Diffusion Models  https://arxiv.org/abs/2312.02696
 
 18	Arbitrary Motion Style Transfer with Multi-condition Motion Latent Diffusion Model
 
-19	Arbitrary-Scale Image Generation and Upsampling using Latent Diffusion Model and Implicit Neural Decoder
+19	Arbitrary-Scale Image Generation and Upsampling using Latent Diffusion Model and Implicit Neural Decoder  https://arxiv.org/abs/2403.10255
 
-20	As-Plausible-As-Possible: Plausibility-Aware Mesh Deformation Using 2D Diffusion Priors
+20	As-Plausible-As-Possible: Plausibility-Aware Mesh Deformation Using 2D Diffusion Priors  https://arxiv.org/abs/2311.16739
 
-21	Atlantis: Enabling Underwater Depth Estimation with Stable Diffusion
+21	Atlantis: Enabling Underwater Depth Estimation with Stable Diffusion  https://arxiv.org/abs/2312.12471
 
-22	Attention-Driven Training-Free Efficiency Enhancement of Diffusion Models
+22	Attention-Driven Training-Free Efficiency Enhancement of Diffusion Models 
 
-23	AVID: Any-Length Video Inpainting with Diffusion Model
+23	AVID: Any-Length Video Inpainting with Diffusion Model  https://arxiv.org/abs/2312.03816
 
-24	Balancing Act: Distribution-Guided Debiasing in Diffusion Models
+24	Balancing Act: Distribution-Guided Debiasing in Diffusion Models  https://arxiv.org/abs/2402.18206
 
-25	Bayesian Diffusion Models for 3D Shape Reconstruction
+25	Bayesian Diffusion Models for 3D Shape Reconstruction  https://arxiv.org/abs/2403.06973
 
-26	Beyond First-Order Tweedie: Solving Inverse Problems using Latent Diffusion
+26	Beyond First-Order Tweedie: Solving Inverse Problems using Latent Diffusion  https://arxiv.org/abs/2312.00852
 
 27	Beyond Textual Constraints: Learning Novel Diffusion Conditions with Fewer Examples
 
 28	Bidirectional Autoregessive Diffusion Model for Dance Generation
 
-29	BIVDiff: A Training-free Framework for General-Purpose Video Synthesis via Bridging Image and Video Diffusion Models
+29	BIVDiff: A Training-free Framework for General-Purpose Video Synthesis via Bridging Image and Video Diffusion Models  https://arxiv.org/abs/2312.02813
 
-30	Boosting Diffusion Models with Moving Average Sampling in Frequency Domain
+30	Boosting Diffusion Models with Moving Average Sampling in Frequency Domain  https://arxiv.org/abs/2403.17870
 
-31	Building Bridges across Spatial and Temporal Resolutions: Reference-Based Super-Resolution via Change Priors and Conditional Diffusion Model
+31	Building Bridges across Spatial and Temporal Resolutions: Reference-Based Super-Resolution via Change Priors and Conditional Diffusion Model  https://arxiv.org/abs/2403.17460
 
-32	Cache Me if You Can: Accelerating Diffusion Models through Block Caching
+32	Cache Me if You Can: Accelerating Diffusion Models through Block Caching  https://arxiv.org/abs/2312.03209
 
-33	Can Protective Perturbation Safeguard Personal Data from Being Exploited by Stable Diffusion?
+33	Can Protective Perturbation Safeguard Personal Data from Being Exploited by Stable Diffusion?  https://arxiv.org/abs/2312.00084
 
 34	Carve3D: Improving Multiview Reconstruction Consistency for Diffusion Models with RL Finetuning
 
-35	CAT-DM: Controllable Accelerated Virtual Try-on with Diffusion Model
+35	CAT-DM: Controllable Accelerated Virtual Try-on with Diffusion Model  https://arxiv.org/abs/2311.18405
 
-36	CCEdit: Creative and Controllable Video Editing via Diffusion Models
+36	CCEdit: Creative and Controllable Video Editing via Diffusion Models  https://arxiv.org/abs/2309.16496
 
 37	CDFormer: When Degradation Prediction Embraces Diffusion Model for Blind Image Super-Resolution
 
-38	CGI-DM: Digital Copyright Authentication for Diffusion Models via Contrasting Gradient Inversion
+38	CGI-DM: Digital Copyright Authentication for Diffusion Models via Contrasting Gradient Inversion  https://arxiv.org/abs/2403.11162
 
-39	Clockwork Diffusion: Efficient Generation With Model-Step Distillation
+39	Clockwork Diffusion: Efficient Generation With Model-Step Distillation  https://arxiv.org/abs/2312.08128
 
-40	Co-Speech Gesture Video Generation via Motion-Decoupled Diffusion Model
+40	Co-Speech Gesture Video Generation via Motion-Decoupled Diffusion Model  https://arxiv.org/abs/2404.01862
 
-41	Coarse-to-Fine Latent Diffusion for Pose-Guided Person Image Synthesis
+41	Coarse-to-Fine Latent Diffusion for Pose-Guided Person Image Synthesis  https://arxiv.org/abs/2402.18078
 
-42	CoDi: Conditional Diffusion Distillation for Higher-Fidelity and Faster Image Generation
+42	CoDi: Conditional Diffusion Distillation for Higher-Fidelity and Faster Image Generation  https://arxiv.org/abs/2310.01407
 
-43	CommonCanvas: Open Diffusion Models Trained on Creative-Commons Images
+43	CommonCanvas: Open Diffusion Models Trained on Creative-Commons Images  https://arxiv.org/abs/2310.16825
 
-44	CONFORM: Contrast is All You Need for High-Fidelity Text-to-Image Diffusion Models
+44	CONFORM: Contrast is All You Need for High-Fidelity Text-to-Image Diffusion Models  https://arxiv.org/abs/2312.06059
 
-45	Confronting Ambiguity in 6D Object Pose Estimation via Score-Based Diffusion on SE(3)
+45	Confronting Ambiguity in 6D Object Pose Estimation via Score-Based Diffusion on SE(3)  https://arxiv.org/abs/2305.15873
 
 46	ConsistDreamer: 3D-Consistent 2D Diffusion for High-Fidelity Scene Editing
 
-47	ConsistNet: Enforcing 3D Consistency for Multi-view Images Diffusion
+47	ConsistNet: Enforcing 3D Consistency for Multi-view Images Diffusion  https://arxiv.org/abs/2310.10343
 
-48	Contrastive Denoising Score for Text-guided Latent Diffusion Image Editing
+48	Contrastive Denoising Score for Text-guided Latent Diffusion Image Editing  https://arxiv.org/abs/2311.18608
 
-49	ConvoFusion: Multi-Modal Conversational Diffusion for Co-Speech Gesture Synthesis
+49	ConvoFusion: Multi-Modal Conversational Diffusion for Co-Speech Gesture Synthesis  https://arxiv.org/abs/2403.17936
 
-50	Correcting Diffusion Generation through Resampling
+50	Correcting Diffusion Generation through Resampling  https://arxiv.org/abs/2312.06038
 
 51	D^4M: Dataset Distillation via Disentangled Diffusion Model
 
