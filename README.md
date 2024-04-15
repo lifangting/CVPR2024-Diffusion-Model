@@ -1,5 +1,5 @@
 # CVPR2024-Diffusion-Model
-1	LaRE$^2$: Latent Reconstruction Error Based Method for Diffusion-Generated Image Detection  https://arxiv.org/abs/2403.17465
+1	$LaRE^2$: Latent Reconstruction Error Based Method for Diffusion-Generated Image Detection  https://arxiv.org/abs/2403.17465
 
 2	$CrowdDiff$: Multi-hypothesis Crowd Density Estimation using Diffusion Models   https://arxiv.org/abs/2303.12790
 
@@ -99,7 +99,7 @@
 
 50	Correcting Diffusion Generation through Resampling  https://arxiv.org/abs/2312.06038
 
-51	D$^4$M: Dataset Distillation via Disentangled Diffusion Model
+51	$D^4$M: Dataset Distillation via Disentangled Diffusion Model
 
 52	De-Diffusion Makes Text a Strong Cross-Modal Interface  https://arxiv.org/abs/2311.00618
 
@@ -399,203 +399,203 @@
 
 200	Multiway Point Cloud Mosaicking with Diffusion and Global Optimization
 
-201	MVIP-NeRF: Multi-view 3D Inpainting on NeRF Scenes via Diffusion Prior
+201 MVIP-NeRF: Multi-view 3D Inpainting on NeRF Scenes via Diffusion Prior
 
-202	Neural Point Cloud Diffusion for Disentangled 3D Shape and Appearance Generation
+202 Neural Point Cloud Diffusion for Disentangled 3D Shape and Appearance Generation  https://arxiv.org/abs/2312.14124
 
-203	Neural Sign Actors: A diffusion model for 3D sign language production from text
+203 Neural Sign Actors: A diffusion model for 3D sign language production from text
 
-204	NoiseCLR: A Contrastive Learning Approach for Unsupervised Discovery of Interpretable Directions in Diffusion Models
+204 NoiseCLR: A Contrastive Learning Approach for Unsupervised Discovery of Interpretable Directions in Diffusion Models  https://arxiv.org/abs/2312.05390
 
-205	NoiseCollage: A Layout-Aware Text-to-Image Diffusion Model Based on Noise Cropping and Merging
+205 NoiseCollage: A Layout-Aware Text-to-Image Diffusion Model Based on Noise Cropping and Merging  https://arxiv.org/abs/2403.03485
 
-206	Object Pose Estimation via the Aggregation of Diffusion Features
+206 Object Pose Estimation via the Aggregation of Diffusion Features  https://arxiv.org/abs/2403.18791
 
-207	Observation-Guided Diffusion Probabilistic Models
+207 Observation-Guided Diffusion Probabilistic Models
 
-208	On the Scalability of Diffusion-based Text-to-Image Generation
+208 On the Scalability of Diffusion-based Text-to-Image Generation  https://arxiv.org/abs/2404.02883
 
-209	One More Step: A Versatile Plug-and-Play Module for Rectifying Diffusion Schedule Flaws and Enhancing Low-Frequency Controls
+209 One More Step: A Versatile Plug-and-Play Module for Rectifying Diffusion Schedule Flaws and Enhancing Low-Frequency Controls  https://arxiv.org/abs/2311.15744
 
-210	One-2-3-45++: Fast Single Image to 3D Objects with Consistent Multi-View Generation and 3D Diffusion
+210 One-2-3-45++: Fast Single Image to 3D Objects with Consistent Multi-View Generation and 3D Diffusion  https://arxiv.org/abs/2311.07885
 
-211	One-dimensional Adapter to Rule Them All: Concepts, Diffusion Models and Erasing Applications
+211 One-dimensional Adapter to Rule Them All: Concepts, Diffusion Models and Erasing Applications  https://arxiv.org/abs/2312.16145
 
-212	One-step Diffusion with Distribution Matching Distillation
+212 One-step Diffusion with Distribution Matching Distillation  https://arxiv.org/abs/2311.18828
 
-213	Open-Vocabulary Attention Maps with Token Optimization for Semantic Segmentation in Diffusion Models
+213 Open-Vocabulary Attention Maps with Token Optimization for Semantic Segmentation in Diffusion Models  https://arxiv.org/abs/2403.14291
 
-214	Optimizing Diffusion Noise Can Serve As Universal Motion Priors
+214 Optimizing Diffusion Noise Can Serve As Universal Motion Priors  https://arxiv.org/abs/2312.11994
 
-215	Orthogonal Adaptation for Modular Customization of Diffusion Models
+215 Orthogonal Adaptation for Modular Customization of Diffusion Models
 
-216	Overcoming Data Limitations for High-Quality Video Diffusion Models
+216 Overcoming Data Limitations for High-Quality Video Diffusion Models  https://arxiv.org/abs/2401.09047
 
-217	Paint3D: Paint Anything 3D with Lighting-less Texture Diffusion Models
+217 Paint3D: Paint Anything 3D with Lighting-less Texture Diffusion Models  https://arxiv.org/abs/2312.13913
 
-218	PAIR Diffusion: A Comprehensive Multimodal Object-Level Image Editor
+218 PAIR Diffusion: A Comprehensive Multimodal Object-Level Image Editor  https://arxiv.org/abs/2303.17546
 
-219	PEEKABOO: Interactive Video Generation via Masked-Diffusion
+219 PEEKABOO: Interactive Video Generation via Masked-Diffusion  https://arxiv.org/abs/2312.07509
 
-220	Perturbing Attention Gives You More Bang for the Buck: Subtle Imaging Perturbations That Efficiently Fool Customized Diffusion Models
+220 Perturbing Attention Gives You More Bang for the Buck: Subtle Imaging Perturbations That Efficiently Fool Customized Diffusion Models
 
-221	PI3D: Efficient Text-to-3D Generation with Pseudo-Image Diffusion
+221 PI3D: Efficient Text-to-3D Generation with Pseudo-Image Diffusion  https://arxiv.org/abs/2312.09069
 
-222	Plug-and-Play Diffusion Distillation
+222 Plug-and-Play Diffusion Distillation
 
-223	Point Cloud Pre-training with Diffusion Models
+223 Point Cloud Pre-training with Diffusion Models  https://arxiv.org/abs/2311.14960
 
-224	PointInfinity: Resolution-Invariant Point Diffusion Models
+224 PointInfinity: Resolution-Invariant Point Diffusion Models  https://arxiv.org/abs/2404.03566
 
-225	PRDP: Proximal Reward Difference Prediction for Large-Scale Reward Finetuning of Diffusion Models
+225 PRDP: Proximal Reward Difference Prediction for Large-Scale Reward Finetuning of Diffusion Models  https://arxiv.org/abs/2402.08714
 
-226	Predicated Diffusion: Predicate Logic-Based Attention Guidance for Text-to-Image Diffusion Models
+226 Predicated Diffusion: Predicate Logic-Based Attention Guidance for Text-to-Image Diffusion Models  https://arxiv.org/abs/2311.16117
 
-227	ProMark: Proactive Diffusion Watermarking for Causal Attribution
+227 ProMark: Proactive Diffusion Watermarking for Causal Attribution  https://arxiv.org/abs/2403.09914
 
-228	Prompt-Free Diffusion: Taking “Text” out of Text-to-Image Diffusion Models
+228 Prompt-Free Diffusion: Taking “Text” out of Text-to-Image Diffusion Models  https://arxiv.org/abs/2305.16223
 
-229	Prompting Hard or Hardly Prompting: Prompt Inversion for Text-to-Image Diffusion Models
+229 Prompting Hard or Hardly Prompting: Prompt Inversion for Text-to-Image Diffusion Models  https://arxiv.org/abs/2312.12416
 
-230	R-Cyclic Diffuser: Reductive and Cyclic Latent Diffusion for 3D Clothed Human Digitalization
+230 R-Cyclic Diffuser: Reductive and Cyclic Latent Diffusion for 3D Clothed Human Digitalization
 
-231	Ranni: Taming Text-to-Image Diffusion for Accurate Instruction Following
+231 Ranni: Taming Text-to-Image Diffusion for Accurate Instruction Following  https://arxiv.org/abs/2311.17002
 
-232	RAVE: Randomized Noise Shuffling for Fast and Consistent Video Editing with Diffusion Models
+232 RAVE: Randomized Noise Shuffling for Fast and Consistent Video Editing with Diffusion Models  https://arxiv.org/abs/2312.04524
 
-233	READ: Retrieval-Enhanced Asymmetric Diffusion for Motion Planning
+233 READ: Retrieval-Enhanced Asymmetric Diffusion for Motion Planning
 
-234	Readout Guidance: Learning Control from Diffusion Features
+234 Readout Guidance: Learning Control from Diffusion Features  https://arxiv.org/abs/2312.02150
 
-235	RecDiffusion: Rectangling for Image Stitching with Diffusion Models
+235 RecDiffusion: Rectangling for Image Stitching with Diffusion Models  https://arxiv.org/abs/2403.19164
 
-236	ReconFusion: 3D Reconstruction with Diffusion Priors
+236 ReconFusion: 3D Reconstruction with Diffusion Priors  https://arxiv.org/abs/2312.02981
 
-237	Relation Rectification in Diffusion Model
+237 Relation Rectification in Diffusion Model  https://arxiv.org/abs/2403.20249
 
-238	Repurposing Diffusion-Based Image Generators for Monocular Depth Estimation
+238 Repurposing Diffusion-Based Image Generators for Monocular Depth Estimation  https://arxiv.org/abs/2312.02145
 
-239	Residual Denoising Diffusion Models
+239 Residual Denoising Diffusion Models
 
-240	Residual Learning in Diffusion Models
+240 Residual Learning in Diffusion Models
 
-241	Rethinking Diffusion Model for Multi-Contrast MRI Super-Resolution
+241 Rethinking Diffusion Model for Multi-Contrast MRI Super-Resolution  https://arxiv.org/abs/2404.04785
 
-242	Rethinking the Spatial Inconsistency in Classifier-Free Diffusion Guidance
+242 Rethinking the Spatial Inconsistency in Classifier-Free Diffusion Guidance  https://arxiv.org/abs/2404.05384
 
-243	RichDreamer: A Generalizable Normal-Depth Diffusion Model for Detail Richness in Text-to-3D
+243 RichDreamer: A Generalizable Normal-Depth Diffusion Model for Detail Richness in Text-to-3D  https://arxiv.org/abs/2311.16918
 
-244	RoHM: Robust Human Motion Reconstruction via Diffusion
+244 RoHM: Robust Human Motion Reconstruction via Diffusion  https://arxiv.org/abs/2401.08570
 
-245	Sat2Scene: 3D Urban Scene Generation from Satellite Images with Diffusion
+245 Sat2Scene: 3D Urban Scene Generation from Satellite Images with Diffusion  https://arxiv.org/abs/2401.10786
 
-246	SatSynth: Augmenting Image-Mask Pairs through Diffusion Models for Aerial Semantic Segmentation
+246 SatSynth: Augmenting Image-Mask Pairs through Diffusion Models for Aerial Semantic Segmentation  https://arxiv.org/abs/2403.16605
 
-247	Scaling Diffusion Models to Real-World 3D LiDAR Scene Completion
+247 Scaling Diffusion Models to Real-World 3D LiDAR Scene Completion  https://arxiv.org/abs/2403.13470
 
-248	SCEdit: Efficient and Controllable Image Diffusion Generation via Skip Connection Editing
+248 SCEdit: Efficient and Controllable Image Diffusion Generation via Skip Connection Editing  https://arxiv.org/abs/2312.11392
 
-249	SceneTex: High-Quality Texture Synthesis for Indoor Scenes via Diffusion Priors
+249 SceneTex: High-Quality Texture Synthesis for Indoor Scenes via Diffusion Priors  https://arxiv.org/abs/2311.17261
 
-250	Score-Guided Diffusion for 3D Human Recovery
+250 Score-Guided Diffusion for 3D Human Recovery  https://arxiv.org/abs/2403.09623
 
-251	SD-DiT: Unleashing the Power of Self-supervised Discrimination in Diffusion Transformer
+251 SD-DiT: Unleashing the Power of Self-supervised Discrimination in Diffusion Transformer  https://arxiv.org/abs/2403.17004
 
-252	SD4Match: Learning to Prompt Stable Diffusion Model for Semantic Matching
+252 SD4Match: Learning to Prompt Stable Diffusion Model for Semantic Matching  https://arxiv.org/abs/2310.17569
 
-253	SDDGR: Stable Diffusion-based Deep Generative Replay for Class Incremental Object Detection
+253 SDDGR: Stable Diffusion-based Deep Generative Replay for Class Incremental Object Detection  https://arxiv.org/abs/2402.17323
 
-254	Seeing and Hearing: Open-domain Visual-Audio Generation with Diffusion Latent Aligners
+254 Seeing and Hearing: Open-domain Visual-Audio Generation with Diffusion Latent Aligners  https://arxiv.org/abs/2402.17723
 
-255	Selective Hourglass Mapping for Universal Image Restoration Based on Diffusion Model
+255 Selective Hourglass Mapping for Universal Image Restoration Based on Diffusion Model  https://arxiv.org/abs/2403.11157
 
-256	Self-Adaptive Reality-Guided Diffusion for Artifact-Free Super-Resolution
+256 Self-Adaptive Reality-Guided Diffusion for Artifact-Free Super-Resolution  https://arxiv.org/abs/2403.16643
 
-257	Self-correcting LLM-controlled Diffusion
+257 Self-correcting LLM-controlled Diffusion  https://arxiv.org/abs/2311.16090
 
-258	Self-Discovering Interpretable Diffusion Latent Directions for Responsible Text-to-Image Generation
+258 Self-Discovering Interpretable Diffusion Latent Directions for Responsible Text-to-Image Generation  https://arxiv.org/abs/2311.17216
 
-259	SemCity: Semantic Scene Generation with Triplane Diffusion
+259 SemCity: Semantic Scene Generation with Triplane Diffusion  https://arxiv.org/abs/2403.07773
 
-260	Shadow Generation for Composite Image Using Diffusion Model
+260 Shadow Generation for Composite Image Using Diffusion Model  https://arxiv.org/abs/2403.15234
 
-261	SimAC: A Simple Anti-Customization Method against Text-to-Image Synthesis of Diffusion Models
+261 SimAC: A Simple Anti-Customization Method against Text-to-Image Synthesis of Diffusion Models  https://arxiv.org/abs/2312.07865
 
-262	SimDA: Simple Diffusion Adapter for Efficient Video Generation
+262 SimDA: Simple Diffusion Adapter for Efficient Video Generation  https://arxiv.org/abs/2308.09710
 
-263	Single Mesh Diffusion Models with Field Latents for Texture Generation
+263 Single Mesh Diffusion Models with Field Latents for Texture Generation  https://arxiv.org/abs/2312.09250
 
-264	SingularTrajectory: Universal Trajectory Predictor Using Diffusion Model
+264 SingularTrajectory: Universal Trajectory Predictor Using Diffusion Model  https://arxiv.org/abs/2403.18452
 
-265	SinSR: Diffusion-Based Image Super-Resolution in a Single Step
+265 SinSR: Diffusion-Based Image Super-Resolution in a Single Step  https://arxiv.org/abs/2311.14760
 
-266	SiTH: Single-view Textured Human Reconstruction with Image-Conditioned Diffusion
+266 SiTH: Single-view Textured Human Reconstruction with Image-Conditioned Diffusion  https://arxiv.org/abs/2311.15855
 
-267	SkillDiffuser: Interpretable Hierarchical Planning via Skill Abstractions in Diffusion-Based Task Execution
+267 SkillDiffuser: Interpretable Hierarchical Planning via Skill Abstractions in Diffusion-Based Task Execution  https://arxiv.org/abs/2312.11598
 
-268	Smooth Diffusion: Crafting Smooth Latent Spaces in Diffusion Models
+268 Smooth Diffusion: Crafting Smooth Latent Spaces in Diffusion Models  https://arxiv.org/abs/2312.04410
 
-269	SNED: Superposition Network Architecture Search for Efficient Video Diffusion Model
+269 SNED: Superposition Network Architecture Search for Efficient Video Diffusion Model
 
-270	SODA: Bottleneck Diffusion Models for Representation Learning
+270 SODA: Bottleneck Diffusion Models for Representation Learning  https://arxiv.org/abs/2311.17901
 
-271	Solving Masked Jigsaw Puzzles with Diffusion Transformers
+271 Solving Masked Jigsaw Puzzles with Diffusion Transformers  https://arxiv.org/abs/2404.07292
 
-272	Space-time Diffusion Features for Zero-shot Text-driven Motion Transfer
+272 Space-time Diffusion Features for Zero-shot Text-driven Motion Transfer  https://arxiv.org/abs/2311.17009
 
-273	StableVITON: Learning Semantic Correspondence with Latent Diffusion Model for Virtual Try-On
+273 StableVITON: Learning Semantic Correspondence with Latent Diffusion Model for Virtual Try-On  https://arxiv.org/abs/2312.01725
 
-274	Structure Matters: Tackling the Semantic Discrepancy in Diffusion Models for Image Inpainting
+274 Structure Matters: Tackling the Semantic Discrepancy in Diffusion Models for Image Inpainting  https://arxiv.org/abs/2403.19898
 
-275	Structure-Guided Adversarial Training of Diffusion Models
+275 Structure-Guided Adversarial Training of Diffusion Models  https://arxiv.org/abs/2402.17563
 
-276	Style Injection in Diffusion: A Training-free Approach for Adapting Large-scale Diffusion Models for Style Transfer
+276 Style Injection in Diffusion: A Training-free Approach for Adapting Large-scale Diffusion Models for Style Transfer  https://arxiv.org/abs/2312.09008
 
-277	SVDTree: Semantic Voxel Diffusion for Single Image Tree Reconstruction
+277 SVDTree: Semantic Voxel Diffusion for Single Image Tree Reconstruction
 
-278	SVGDreamer: Text Guided SVG Generation with Diffusion Model
+278 SVGDreamer: Text Guided SVG Generation with Diffusion Model  https://arxiv.org/abs/2312.16476
 
-279	SwiftBrush: One-Step Text-to-Image Diffusion Model with Variational Score Distillation
+279 SwiftBrush: One-Step Text-to-Image Diffusion Model with Variational Score Distillation  https://arxiv.org/abs/2312.05239
 
-280	Tackling the Singularities at the Endpoints of Time Intervals in Diffusion Models
+280 Tackling the Singularities at the Endpoints of Time Intervals in Diffusion Models  https://arxiv.org/abs/2403.08381
 
-281	Taming Stable Diffusion for Text to 360$^{\circ}$ Panorama Image Generation
+281 Taming Stable Diffusion for Text to ${360}^{\circ}$ Panorama Image Generation  https://arxiv.org/abs/2404.07949
 
-282	TexOct: Generating Textures of 3D Models with Octree-based Diffusion
+282 TexOct: Generating Textures of 3D Models with Octree-based Diffusion
 
-283	Text-image Alignment for Diffusion-based Perception
+283 Text-image Alignment for Diffusion-based Perception  https://arxiv.org/abs/2310.00031
 
-284	Text-to-3D Generation with Bidirectional Diffusion using both 3D and 2D priors
+284 Text-to-3D Generation with Bidirectional Diffusion using both 3D and 2D priors  https://arxiv.org/abs/2312.04963
 
-285	Text-to-Image Diffusion Models are Great Sketch-Photo Matchmakers
+285 Text-to-Image Diffusion Models are Great Sketch-Photo Matchmakers  https://arxiv.org/abs/2403.07214
 
-286	Texture-Preserving Diffusion Models for High-Fidelity Virtual Try-On
+286 Texture-Preserving Diffusion Models for High-Fidelity Virtual Try-On  https://arxiv.org/abs/2404.01089
 
-287	TextureDreamer: Image-guided Texture Synthesis through Geometry-aware Diffusion
+287 TextureDreamer: Image-guided Texture Synthesis through Geometry-aware Diffusion  https://arxiv.org/abs/2401.09416
 
-288	TFMQ-DM: Temporal Feature Maintenance Quantization for Diffusion Models
+288 TFMQ-DM: Temporal Feature Maintenance Quantization for Diffusion Models  https://arxiv.org/abs/2311.16503
 
-289	TI2V-Zero: Zero-Shot Image Conditioning for Text-to-Video Diffusion Models
+289 TI2V-Zero: Zero-Shot Image Conditioning for Text-to-Video Diffusion Models
 
-290	TIGER: Time-Varying Denoising Model for 3D Point Cloud Generation with Diffusion Process
+290 TIGER: Time-Varying Denoising Model for 3D Point Cloud Generation with Diffusion Process
 
-291	TiNO-Edit: Timestep and Noise Optimization for Robust Diffusion-Based Image Editing
+291 TiNO-Edit: Timestep and Noise Optimization for Robust Diffusion-Based Image Editing
 
-292	TokenCompose: Text-to-Image Diffusion with Token-level Supervision
+292 TokenCompose: Text-to-Image Diffusion with Token-level Supervision  https://arxiv.org/abs/2312.03626
 
-293	Towards Accurate Post-training Quantization for Diffusion Models
+293 Towards Accurate Post-training Quantization for Diffusion Models  https://arxiv.org/abs/2305.18723
 
-294	Towards Effective Usage of Human-Centric Priors in Diffusion Models for Text-based Human Image Generation
+294 Towards Effective Usage of Human-Centric Priors in Diffusion Models for Text-based Human Image Generation  https://arxiv.org/abs/2403.05239
 
-295	Towards Memorization-Free Diffusion Models
+295 Towards Memorization-Free Diffusion Models  https://arxiv.org/abs/2404.00922
 
-296	Towards More Accurate Diffusion Model Acceleration with A Timestep Aligner
+296 Towards More Accurate Diffusion Model Acceleration with A Timestep Aligner  https://arxiv.org/abs/2310.09469
 
-297	Towards Realistic Scene Generation with LiDAR Diffusion Models
+297 Towards Realistic Scene Generation with LiDAR Diffusion Models  https://arxiv.org/abs/2404.00815
 
-298	Towards Understanding Cross and Self-Attention in Stable Diffusion for Text-Guided Image Editing
+298 Towards Understanding Cross and Self-Attention in Stable Diffusion for Text-Guided Image Editing  https://arxiv.org/abs/2403.03431
 
-299	Training Diffusion Models Towards Diverse Image Generation with Reinforcement Learning
+299 Training Diffusion Models Towards Diverse Image Generation with Reinforcement Learning
 
 300	Training-Free Open-Vocabulary Segmentation with Offline Diffusion-Augmented Prototype Generation  https://arxiv.org/abs/2404.06542
 
