@@ -99,7 +99,7 @@
 
 50	Correcting Diffusion Generation through Resampling  https://arxiv.org/abs/2312.06038
 
-51	$D^4$M: Dataset Distillation via Disentangled Diffusion Model
+51	${D}^{4}$M: Dataset Distillation via Disentangled Diffusion Model
 
 52	De-Diffusion Makes Text a Strong Cross-Modal Interface  https://arxiv.org/abs/2311.00618
 
