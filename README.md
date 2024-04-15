@@ -324,4 +324,9 @@
 323	X-Adapter: Adding Universal Compatibility of Plugins for Upgraded Diffusion Model
 324	Your Student is Better Than Expected: Adaptive Teacher-Student Collaboration for Text-Conditional Diffusion Models
 
+321	Wonder3D: Single Image to 3D using Cross-Domain Diffusion
+322	WOUAF: Weight Modulation for User Attribution and Fingerprinting in Text-to-Image Diffusion Models
+323	X-Adapter: Adding Universal Compatibility of Plugins for Upgraded Diffusion Model
+324	Your Student is Better Than Expected: Adaptive Teacher-Student Collaboration for Text-Conditional Diffusion Models
+
 
