@@ -1,9 +1,9 @@
 # CVPR2024-Diffusion-Model
-1	LaRE^2: Latent Reconstruction Error Based Method for Diffusion-Generated Image Detection  https://arxiv.org/abs/2403.17465
+1	$\textbf{La+B2:B315RE}^2$: Latent Reconstruction Error Based Method for Diffusion-Generated Image Detection  https://arxiv.org/abs/2403.17465
 
-2	CrowdDiff: Multi-hypothesis Crowd Density Estimation using Diffusion Models   https://arxiv.org/abs/2303.12790
+2	$CrowdDiff$: Multi-hypothesis Crowd Density Estimation using Diffusion Models   https://arxiv.org/abs/2303.12790
 
-3	MonoDiff: Monocular 3D Object Detection and Pose Estimation with Diffusion Models
+3	$MonoDiff$: Monocular 3D Object Detection and Pose Estimation with Diffusion Models
 
 4	360DVD: Controllable Panorama Video Generation with 360-Degree Video Diffusion Model  https://arxiv.org/abs/2401.06578
 
@@ -99,7 +99,7 @@
 
 50	Correcting Diffusion Generation through Resampling  https://arxiv.org/abs/2312.06038
 
-51	D^4M: Dataset Distillation via Disentangled Diffusion Model
+51	D$^4$M: Dataset Distillation via Disentangled Diffusion Model
 
 52	De-Diffusion Makes Text a Strong Cross-Modal Interface
 
